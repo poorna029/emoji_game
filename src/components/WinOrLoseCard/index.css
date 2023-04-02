@@ -1,0 +1,14 @@
+/* Write your code here. */
+/* winOrLoseCard css file  */
+.winOrLoseMain {
+  display: flex;
+  flex-direction: row;
+}
+.bu {
+  width: 100px;
+  height: 30px;
+  background-color: orange;
+  border: none;
+  outline: none;
+  border-radius: 10px;
+}

@@ -1,0 +1,20 @@
+/* Write your code here. */
+/* EmojiCard css file  */
+.emoji-card {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: 10vw;
+  background-color: #9796f0;
+  margin: 30px;
+  height: 10vw;
+  border-radius: 5%;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  border-color: none;
+}
+.l {
+  list-style-type: none;
+}

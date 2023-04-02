@@ -1,0 +1,18 @@
+/* Write your code here. */
+/* Navbar css file  */
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: black;
+  padding: 1% 2%;
+  color: white;
+}
+.java {
+  display: flex;
+  align-items: center;
+  margin-right: 20px;
+}
+.para {
+  margin-left: 20px;
+}
